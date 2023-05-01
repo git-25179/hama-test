@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: xxx
-        image: 192.168.152.210:8443/cpuhog:v1.0
+        image: 192.168.152.106:8443/cpuhog:v1.0
